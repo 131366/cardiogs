@@ -1,0 +1,13 @@
+torch>=2.0
+numpy
+tqdm
+SimpleITK
+open3d
+scipy
+scikit-image
+opencv-python
+pyhocon
+plyfile
+pymeshlab
+PyMCubes
+tensorboardX

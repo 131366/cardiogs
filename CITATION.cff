@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "CardioGS: Deformation-Driven 4D Gaussian Splatting with Self-Supervised Cardiac Clock Learning for Rotational DSA Reconstruction"
+message: "If you use this software, please cite the corresponding MICCAI 2026 paper."
+type: software
+authors:
+  - name: "CardioGS Authors"
+date-released: 2026-06-23
+repository-code: "https://github.com/131366/MICCAI_2026"
+license: MIT
